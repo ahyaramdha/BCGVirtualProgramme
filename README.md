@@ -1,4 +1,4 @@
-#**BCG Virtual Job Simulation Programme**
+**BCG Virtual Job Simulation Programme**
 
 
 topic: customer churn
